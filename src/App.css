@@ -1,0 +1,56 @@
+.App * {
+  font-size: 20px;
+}
+.App {
+  padding: 20px;
+}
+.App td {
+  padding: 20px;
+}
+
+.App input {
+  margin-bottom: 20px;
+}
+
+.App button {
+  margin-left: 20px;
+}
+
+.App button {
+  margin-right: 20px;
+  font-size: 25px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+#result {
+  margin-top: 20px;
+  padding: 20px;
+  background-color: black;
+  color: white;
+  word-wrap: break-word;
+}
+
+.App h1 {
+  font-size: 40px;
+}
+
+.App table {
+  width: 100%;
+}
+
+.App .vault {
+  width: 70%;
+}
+
+.App .vault textarea {
+  width: 100%;
+}
+
+.App .password {
+  width: 30%;
+}
+
+.App .password textarea {
+  width: 100%;
+}
